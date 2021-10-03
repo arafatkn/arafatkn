@@ -1,8 +1,9 @@
-### Hi there 👋
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=arafatkn&show_icons=true&theme=highcontrast&count_private=true" alt="Arafat's Github Stats"/>](https://github.com/arafatkn)
+
+
+# Hello, I'm Arafat Islam
 
 <!--
-**arafatkn/arafatkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
