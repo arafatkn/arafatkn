@@ -27,7 +27,7 @@ Currently, working as a **Software Engineer** in **[weDevs](https://wedevs.com/a
 
 ## Support
 
-<p><a href="https://www.buymeacoffee.com/arafatkn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arafatkn" /></a></p>
+<p><a href="https://www.buymeacoffee.com/arafatkn" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arafatkn" /></a></p>
 
 <br><br><br>
 
