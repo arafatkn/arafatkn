@@ -5,6 +5,20 @@
 Full-stack web developer from Dhaka, Bangladesh. I have rich experience in laravel and vuejs based web application development, also I am good at WordPress. Using PHP as primary backend language since 2015. Have working experience in python and nodejs also.
 Currently, working as a **Software Engineer** in **[weDevs](https://wedevs.com/about/team)** ([Appsero](https://appsero.com) Project).
 
+## Technologies
+- PHP - Larvel, Wordpress, Opencart...
+- Javascript - VueJS, NuxtJS, jQuery...
+- NodeJS - ExpressJS...
+- Python
+- HTML
+- CSS - Boostrap, Tailwind...
+- Linux, Docker, nginx...
+- GCP - Datastore, BigQuery, Dataflow, Cloud Storage...
+- AWS - EC2...
+- cPanel, WHM, VPS, Dedicated...
+
+and more...
+
 ## Awards
 - Banglalink IT Incubator 3.0
     - Winner (National Top 7)
@@ -31,7 +45,6 @@ Currently, working as a **Software Engineer** in **[weDevs](https://wedevs.com/a
 
 <br><br><br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafatkn&show_icons=true&locale=en&layout=compact&count_private=true" alt="arafatkn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafatkn&langs_count=10&show_icons=true&locale=en&layout=compact&count_private=true" alt="arafatkn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arafatkn&count_private=true" alt="arafatkn" /></p>
