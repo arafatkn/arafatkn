@@ -43,8 +43,11 @@ and more...
 
 <p><a href="https://www.buymeacoffee.com/arafatkn" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arafatkn" /></a></p>
 
-<br><br><br>
+<br/><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafatkn&langs_count=10&show_icons=true&locale=en&layout=compact&count_private=true" alt="arafatkn" /></p>
+## Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arafatkn&count_private=true" alt="arafatkn" /></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafatkn&langs_count=8&show_icons=true&locale=en&layout=compact&count_private=true" alt="arafatkn" width="48%"/> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arafatkn&count_private=true" alt="arafatkn" width="48%" />
+</p>
