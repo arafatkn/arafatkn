@@ -19,6 +19,11 @@ Currently, working as a **Laravel Engineer** in **[rtCamp](https://rtcamp.com/ab
 
 and more...
 
+## Work Experiences
+- **Laravel Engineer** in **[rtCamp](https://rtcamp.com)** (Current Job).
+- **Software Engineer** in **[weDevs](https://wedevs.com)**
+    - Laravel, VueJS, Wordpress, ExpressJS, Python, Dataflow, Datastore, BigQuery, GCS, Docker, etc.
+
 ## Awards
 - Banglalink IT Incubator 3.0
     - Winner (National Top 7)
