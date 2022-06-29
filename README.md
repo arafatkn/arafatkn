@@ -24,6 +24,14 @@ and more...
     - Laravel, ReactJS, Wordpress, NestJS.
 - **Software Engineer** in **[weDevs](https://wedevs.com)**
     - Laravel, VueJS, Wordpress, ExpressJS, Python, Dataflow, Datastore, BigQuery, GCS, Docker, etc.
+- **Software Engineer** in **[Softias](https://softias.com)**
+    - Laravel, VueJS, WordPress.
+
+## Education
+- **M.Sc (Engineering)** in Bangladesh University of Engineering and Technology (BUET), Dhaka.
+    - Running.
+- **B.Sc (Engineering)** in Pabna University of Science and Technology (PUST), Pabna.
+    - 2015 to 2019.
 
 ## Awards
 - Banglalink IT Incubator 3.0
