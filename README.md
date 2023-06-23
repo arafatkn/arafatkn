@@ -1,6 +1,3 @@
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=arafatkn&show_icons=true&count_private=true" alt="Arafat's Github Stats"/>
-
-
 # Hello, I'm Arafat...
 Web Artisan from Dhaka, Bangladesh. I have rich experience in laravel and vuejs based web application development, also I am good at Typescript, NodeJS, ReactJS and WordPress. Have working experience in python also. Using PHP as primary backend language since 2015 and since mid 2022, using typescript with express daily.
 
