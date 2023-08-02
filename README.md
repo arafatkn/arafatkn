@@ -18,7 +18,9 @@ Web Artisan from Dhaka, Bangladesh. I have rich experience in laravel and vuejs 
 and more...
 
 ## Work Experiences
-- **Software Engineer** in **[weDevs](https://wedevs.com)** (running)
+- **Senior Software Engineer** in **[weDevs](https://wedevs.com)** (running)
+    - Typescript, ExpressJS, ReactJS, NextJS, Laravel, PostgreSQL, MongoDB, RabbitMQ etc.
+- **Software Engineer** in **[weDevs](https://wedevs.com)**
     - Typescript, ExpressJS, ReactJS, NextJS, Laravel, PostgreSQL, MongoDB, RabbitMQ etc.
 - **Laravel Engineer** in **[rtCamp](https://rtcamp.com)**
     - Laravel, ReactJS, Wordpress, NestJS.
