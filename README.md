@@ -34,6 +34,15 @@ and more...
 - **B.Sc (Engineering)** in Pabna University of Science and Technology (PUST), Pabna.
     - 2015 to 2019.
 
+## Open Source Contributions
+- https://github.com/express-validator/express-validator/pull/1248
+- https://github.com/lodash/lodash/pull/5793
+- https://github.com/Appsero/laravel-datastore
+- https://github.com/arafatkn/wrest
+- https://github.com/arafatkn/laravel-settings
+- https://github.com/arafatkn/quizzy
+- https://github.com/arafatkn/laravel-meta
+
 ## Awards
 - Banglalink IT Incubator 3.0
     - Winner (National Top 7)
