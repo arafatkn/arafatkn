@@ -37,6 +37,7 @@ and more...
 ## Open Source Contributions
 - https://github.com/express-validator/express-validator/pull/1248
 - https://github.com/lodash/lodash/pull/5793
+- https://github.com/laravel/cashier-stripe/pull/1661
 - https://github.com/Appsero/laravel-datastore
 - https://github.com/arafatkn/wrest
 - https://github.com/arafatkn/laravel-settings
