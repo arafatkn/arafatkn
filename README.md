@@ -40,6 +40,7 @@ and more...
 - https://github.com/laravel/cashier-stripe/pull/1661
 - https://github.com/Appsero/laravel-datastore
 - https://github.com/arafatkn/wrest
+- https://github.com/arafatkn/tableplus-ulid-generator
 - https://github.com/arafatkn/laravel-settings
 - https://github.com/arafatkn/quizzy
 - https://github.com/arafatkn/laravel-meta
