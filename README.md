@@ -24,8 +24,8 @@ and more...
 - **Laravel Engineer** in **[rtCamp](https://rtcamp.com)**
     - Laravel, ReactJS, Wordpress, NestJS.
 - **Software Engineer** in **[weDevs](https://wedevs.com)**
-    - Laravel, VueJS, Wordpress, ExpressJS, Python, Dataflow, Datastore, BigQuery, GCS, Docker, etc.
-- **Software Engineer** in **[Softias](https://softias.com)**
+    - Laravel, VueJS, WordPress, ExpressJS, Python, Dataflow, Datastore, BigQuery, GCS, Docker, etc.
+- **Freelance Web Engineer**
     - Laravel, VueJS, WordPress.
 
 ## Education
