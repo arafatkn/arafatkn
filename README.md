@@ -7,19 +7,17 @@ Web Artisan from Dhaka, Bangladesh. I have rich experience in laravel and vuejs 
 - Typescript/Javascript -
     - Frontend: VueJS, NuxtJS, ReactJS, NextJS, jQuery...
     - Backend: ExpressJS, NestJS...
-- Python
 - HTML
 - CSS - Tailwind, Boostrap...
 - Linux, Docker, nginx...
-- cPanel, WHM, VPS, Dedicated...
 - AWS & GCP Experience
 
 and more...
 
 ## Work Experiences
-- **Senior Software Engineer** in **[weDevs](https://wedevs.com)** (running)
+- **Senior Software Engineer** in **[Dokan Cloud](https://dokan.co/cloud) ([weDevs](https://wedevs.com))** (running)
     - Typescript, ExpressJS, ReactJS, NextJS, Laravel, PostgreSQL, MongoDB, RabbitMQ etc.
-- **Software Engineer** in **[weDevs](https://wedevs.com)**
+- **Software Engineer** in **[Dokan Cloud](https://dokan.co/cloud) ([weDevs](https://wedevs.com))**
     - Typescript, ExpressJS, ReactJS, NextJS, Laravel, PostgreSQL, MongoDB, RabbitMQ etc.
 - **Laravel Engineer** in **[rtCamp](https://rtcamp.com)**
     - Laravel, ReactJS, Wordpress, NestJS.
