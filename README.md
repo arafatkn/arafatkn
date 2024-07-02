@@ -33,7 +33,10 @@ and more...
     - 2015 to 2019.
 
 ## Open Source Contributions
+- https://github.com/xerots/xerots (nano framework for ts)
+- https://github.com/xerots/core
 - https://github.com/express-validator/express-validator/pull/1248
+- https://github.com/validatorjs/validator.js/pull/2294
 - https://github.com/lodash/lodash/pull/5793
 - https://github.com/laravel/cashier-stripe/pull/1661
 - https://github.com/Appsero/laravel-datastore
