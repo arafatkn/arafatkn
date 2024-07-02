@@ -1,5 +1,5 @@
 # Hello 👋
-Web Artisan from Dhaka, Bangladesh. I have rich experience in laravel and vuejs based web application development, also I am experienced at Typescript, ExpressJS, ReactJS and WordPress. Using PHP as my primary backend language since 2015 and since early 2022, I have been using Typescript with Express & React daily.
+Web Artisan from Dhaka, Bangladesh. I have rich experience in laravel and vuejs based web application development, also I am expert at Typescript, ExpressJS, ReactJS, NextJS, NuxtJS and WordPress. Using PHP as my primary backend language since 2015 and since early 2022, I have been using Typescript with Express & React daily.
 
 ## Technologies
 - PHP - Laravel, WordPress, Opencart...
