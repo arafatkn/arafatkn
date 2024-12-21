@@ -33,6 +33,7 @@ and more...
     - 2015 to 2019.
 
 ## Open Source Contributions
+- https://github.com/xeroui/xui-vue
 - https://github.com/xerots/xerots (nano framework for ts)
 - https://github.com/xerots/core
 - https://github.com/express-validator/express-validator/pull/1248
