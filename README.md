@@ -41,6 +41,7 @@ and more...
 - https://github.com/lodash/lodash/pull/5793
 - https://github.com/laravel/cashier-stripe/pull/1661
 - https://github.com/Appsero/laravel-datastore
+- https://github.com/arafatkn/socialize (social network for local connectivity, developed in an internet blackout at july-2024)
 - https://github.com/arafatkn/wrest
 - https://github.com/arafatkn/tableplus-fake-data
 - https://github.com/arafatkn/tableplus-ulid-generator
