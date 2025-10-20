@@ -31,7 +31,21 @@ and more...
     - Running.
 - **B.Sc (Engineering)** in Pabna University of Science and Technology (PUST), Pabna.
     - 2015 to 2019.
+ 
+## Event Participation
+- **Speaker:** [WordCamp Dhaka 2025](https://dhaka.wordcamp.org/2025/speaker/arafat-islam/)
 
+## Awards
+- Banglalink IT Incubator 3.0
+    - Winner (National Top 7)
+    - Team: MessBook
+- Student 2 Startup - Chapter II
+    - Runner Up
+    - Team: MessBook.xyz
+- BASIS National ICT Award 2019
+  - 1st Runner Up
+  - Team: MessManager
+ 
 ## Open Source Contributions
 - https://github.com/xeroui/xui-vue
 - https://github.com/xerots/xerots (nano framework for ts)
@@ -48,17 +62,6 @@ and more...
 - https://github.com/arafatkn/laravel-settings
 - https://github.com/arafatkn/quizzy
 - https://github.com/arafatkn/laravel-meta
-
-## Awards
-- Banglalink IT Incubator 3.0
-    - Winner (National Top 7)
-    - Team: MessBook
-- Student 2 Startup - Chapter II
-    - Runner Up
-    - Team: MessBook.xyz
-- BASIS National ICT Award 2019
-  - 1st Runner Up
-  - Team: MessManager
 
 ## Connect with me
 
