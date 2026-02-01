@@ -2,20 +2,23 @@
 Web Artisan from Dhaka, Bangladesh. I have rich experience in laravel and vuejs based web application development, also I am expert at Typescript, ExpressJS, ReactJS, NextJS, NuxtJS and WordPress. Using PHP as my primary backend language since 2015 and since early 2022, I have been using Typescript with Express & React daily.
 
 ## Technologies
-- PHP - Laravel, WordPress, Opencart...
-- MySQL, PostgreSQL, MongoDB, DynamoDB, BigQuery, Elasticsearch...
+- PHP - Laravel, WordPress.
+- MySQL, PostgreSQL, MongoDB, DynamoDB, BigQuery, Elasticsearch.
 - Typescript/Javascript -
-    - Frontend: VueJS, NuxtJS, ReactJS, NextJS, jQuery...
-    - Backend: ExpressJS, NestJS...
+    - Frontend: VueJS, NuxtJS, ReactJS, NextJS, jQuery.
+    - Backend: ExpressJS, NestJS.
 - HTML
-- CSS - Tailwind, Boostrap...
-- Linux, Docker, nginx...
+- CSS - Tailwind, Boostrap.
+- Linux, Docker, nginx.
 - AWS & GCP Experience
 
 and more...
 
 ## Work Experiences
-- **Senior Software Engineer** in **[Dokan Cloud](https://dokan.co/cloud) ([weDevs](https://wedevs.com))** (running)
+- **Building** @xerowp - zero-hassle WordPress managed hosting platform
+- **Technical Lead** in **[Dokan Cloud](https://dokan.co/cloud) ([weDevs](https://wedevs.com))**
+    - Lead the tech team of eight people.
+- **Senior Software Engineer** in **[Dokan Cloud](https://dokan.co/cloud) ([weDevs](https://wedevs.com))**
     - Typescript, ExpressJS, ReactJS, NextJS, Laravel, PostgreSQL, MongoDB, RabbitMQ etc.
 - **Software Engineer** in **[Dokan Cloud](https://dokan.co/cloud) ([weDevs](https://wedevs.com))**
     - Typescript, ExpressJS, ReactJS, NextJS, Laravel, PostgreSQL, MongoDB, RabbitMQ etc.
@@ -28,7 +31,7 @@ and more...
 
 ## Education
 - **M.Sc (Engineering)** in Bangladesh University of Engineering and Technology (BUET), Dhaka.
-    - Running.
+    - 2022 to running.
 - **B.Sc (Engineering)** in Pabna University of Science and Technology (PUST), Pabna.
     - 2015 to 2019.
  
