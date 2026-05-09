@@ -15,7 +15,9 @@ Web Artisan from Dhaka, Bangladesh. I have rich experience in laravel and vuejs 
 and more...
 
 ## Work Experiences
-- **Building** @xerowp - zero-hassle WordPress managed hosting platform
+- **Building** [@depnix](https://depnix.com) - Deploy Anything, Control Everything.
+- **Building** [@xerowp](https://xerowp.com) - Zero-hassle WordPress managed hosting platform
+- **Chief Technology Officer** **[Hostomega](https://hostomega.com)**
 - **Technical Lead** in **[Dokan Cloud](https://dokan.co/cloud) ([weDevs](https://wedevs.com))**
     - Lead the tech team of eight people.
 - **Senior Software Engineer** in **[Dokan Cloud](https://dokan.co/cloud) ([weDevs](https://wedevs.com))**
