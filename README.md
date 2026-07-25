@@ -14,10 +14,11 @@ Web Artisan from Dhaka, Bangladesh. I have rich experience in laravel and vuejs 
 
 and more...
 
-## Work Experiences
+## Currently
 - **Building** [@depnix](https://depnix.com) - Deploy Anything, Control Everything.
-- **Building** [@xerowp](https://xerowp.com) - Zero-hassle WordPress managed hosting platform
-- **Chief Technology Officer** **[Hostomega](https://hostomega.com)**
+- **Building** [@xerowp](https://xerowp.com) - Zero-hassle WordPress managed hosting platform.
+
+## Past Work Experiences
 - **Technical Lead** in **[Dokan Cloud](https://dokan.co/cloud) ([weDevs](https://wedevs.com))**
     - Lead the tech team of eight people.
 - **Senior Software Engineer** in **[Dokan Cloud](https://dokan.co/cloud) ([weDevs](https://wedevs.com))**
@@ -30,14 +31,9 @@ and more...
     - Laravel, VueJS, WordPress, ExpressJS, Python, Dataflow, Datastore, BigQuery, GCS, Docker, etc.
 - **Freelance Web Engineer**
     - Laravel, VueJS, WordPress.
-
-## Education
-- **M.Sc (Engineering)** in Bangladesh University of Engineering and Technology (BUET), Dhaka.
-    - 2022 to running.
-- **B.Sc (Engineering)** in Pabna University of Science and Technology (PUST), Pabna.
-    - 2015 to 2019.
  
 ## Event Participation
+- **Speaker:** [WordCamp Rajshahi 2026](https://rajshahi.wordcamp.org/2026/speaker/arafat-islam/)
 - **Speaker:** [WordCamp Dhaka 2025](https://dhaka.wordcamp.org/2025/speaker/arafat-islam/)
 
 ## Awards
