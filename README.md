@@ -4,14 +4,14 @@ Node · Typescript · PHP · React · Vue · DevOps · System Design<br/>
 <sub>Dhaka, Bangladesh (UTC+6)</sub></p>
 
 <p align="center">
-  <a href="https://arafat.im/"><img src="https://img.shields.io/badge/Portfolio-arafat.im-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/arafatkn/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:arafatkn@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://arafat.im/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-arafat.im-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/arafatkn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:arafatkn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-Backend-focused full-stack engineer with 6+ years of experience, building web applications in PHP/Laravel and TypeScript/Node. Currently working as a freelance software engineer.
+Backend-focused full-stack engineer with 6+ years of experience, building web applications in PHP/Laravel and TypeScript/Node.
 
 ## Technologies
 - Language - PHP, Typescript, Javascript
@@ -24,8 +24,10 @@ Backend-focused full-stack engineer with 6+ years of experience, building web ap
 and more...
 
 ## Currently
+Building products and working as a freelance software engineer.
 - **Building** [@depnix](https://depnix.com) - Deploy Anything, Control Everything.
 - **Building** [@xerowp](https://xerowp.com) - Zero-hassle WordPress managed hosting platform.
+- **Building** [@sitebot.dev](https://sitebot.dev) - Uptime Monitoring that feels effortless.
 
 ## Past Work Experiences
 - **Technical Lead** in **[Dokan Cloud](https://dokan.co/cloud) ([weDevs](https://wedevs.com))**
