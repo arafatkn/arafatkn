@@ -1,5 +1,17 @@
-# Hello 👋
-Web Artisan from Dhaka, Bangladesh. I have rich experience in laravel and vuejs based web application development, also I am expert at Typescript, ExpressJS, ReactJS, NextJS, NuxtJS and WordPress. Using PHP as my primary backend language since 2015, and since early 2022, I have been using Typescript with Express & React daily alongside PHP/Laravel. My favourite stack is Laravel + Inertia + Typescript + Vue/React + Tailwind.
+<h1 align="center">Aarafat Islam</h1>
+<p align="center"><b>Backend Focused Full Stack</b><br/>
+Node · Typescript · PHP · React · Vue · DevOps · System Design<br/>
+<sub>Dhaka, Bangladesh (UTC+6)</sub></p>
+
+<p align="center">
+  <a href="https://arafat.im/"><img src="https://img.shields.io/badge/Portfolio-arafat.im-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/arafatkn/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:arafatkn@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+Backend-focused full-stack engineer with 6+ years of experience, building web applications in PHP/Laravel and TypeScript/Node. Currently working as a freelance software engineer.
 
 ## Technologies
 - PHP - Laravel, WordPress.
@@ -48,6 +60,7 @@ and more...
   - Team: MessManager
  
 ## Open Source Contributions
+- https://github.com/arafatkn/chrome-extension-profiller
 - https://github.com/arafatkn/maintenias
 - https://github.com/xeroui/xui-vue
 - https://github.com/xerots/xerots (nano framework for ts)
