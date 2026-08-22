@@ -14,15 +14,12 @@ Node · Typescript · PHP · React · Vue · DevOps · System Design<br/>
 Backend-focused full-stack engineer with 6+ years of experience, building web applications in PHP/Laravel and TypeScript/Node. Currently working as a freelance software engineer.
 
 ## Technologies
-- PHP - Laravel, WordPress.
-- MySQL, PostgreSQL, MongoDB, DynamoDB, BigQuery, Elasticsearch.
-- Typescript/Javascript -
-    - Frontend: VueJS, NuxtJS, ReactJS, NextJS, jQuery.
-    - Backend: ExpressJS, NestJS.
-- HTML
-- CSS - Tailwind, Boostrap.
-- Linux, Docker, nginx.
-- AWS & GCP Experience
+- Language - PHP, Typescript, Javascript
+- Backend - Laravel, Express, Hono, NestJS
+- Database - MySQL, PostgreSQL, MongoDB, DynamoDB, BigQuery, Elasticsearch.
+- CMS - WordPress
+- Frontend - VueJS, ReactJS, NextJS, NuxtJS, Tailwind, Boostrap.
+- DevOps - Linux, Docker, Nginx, AWS & GCP
 
 and more...
 
