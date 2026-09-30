@@ -11,7 +11,7 @@ Node · Typescript · PHP · React · Vue · DevOps · System Design<br/>
 
 ---
 
-Backend-focused full-stack engineer with 6+ years of experience, building web applications in PHP/Laravel and TypeScript/Node.
+Backend-focused full-stack engineer with 7+ years of experience, building web applications in PHP/Laravel and TypeScript/Node.
 
 ## Technologies
 - Language - PHP, Typescript, Javascript
